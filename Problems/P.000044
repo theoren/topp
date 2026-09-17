@@ -12,7 +12,7 @@ so that this arrangement graph is $4$-regular.
 * Origin: The zonohedron-face version is due to Stan Wagon,
 deriving from the work in~\cite{sw-rpt3c-00}.
 The origin of the arrangement guise of the problem is~\cite{fhns-hcag-00}.
-* Status/Conjectures: Open.
+* Status/Conjectures: Proved true~\cite{cahit2004colorabilityarrangementgraphgreat} (2004).
 * Motivation: <none>
 * Partial and Related Results:
 Arrangement graphs of circles in the plane, or general circles on the sphere,
